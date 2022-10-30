@@ -25,6 +25,7 @@
 
 ### 5-) Basic Web Server
 
+    Used Technologies:
       - http.createServer()
       - req.url
       - res.writeHead()
