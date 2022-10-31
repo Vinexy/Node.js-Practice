@@ -32,3 +32,12 @@
       - res.write()
       - res.end()
       - server.listen()
+### 6-) Koa Create First Server
+
+    Used Technologies:
+      - Koa()
+      - Router()
+      - router.get()
+      - app.use()
+      - app.listen()
+
